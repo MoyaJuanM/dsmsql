@@ -1,0 +1,2 @@
+# dsmsql
+sql server scripts
